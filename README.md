@@ -36,4 +36,10 @@
 + https://github.com/jageall/IdentityServer.v3.MongoDb
 
 # ASP.NET Core Authentication using JWT
-https://github.com/ntxinh/dotnetcore-practices/tree/master/AspNetCoreJWTAuth
++ https://github.com/ntxinh/dotnetcore-practices/tree/master/AspNetCoreJWTAuth
+
+# References
++ https://github.com/mmacneil/AngularASPNETCore2WebApiAuth
++ https://github.com/mmacneil/AngularASPNETCoreAuthentication
++ https://github.com/jatarga/WebApiJwt
++ https://github.com/mmacneil/AngularASPNETCoreOAuth
