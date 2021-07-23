@@ -8,6 +8,10 @@
 + https://github.com/brockallen/IdentityServerAndApi (Brock Allen)
 + https://github.com/BenjaminAbt/Samples.AspNetCore-IdentityServer4 (4 years ago)
 
+## ASP.NET Core Identity and MongoDB
++ A MongoDb UserStore and RoleStore adapter for Microsoft.AspNetCore.Identity 2.2. Allows you to use MongoDb instead of SQL server with Microsoft.AspNetCore.Identity 2.2. (not Identity 3.0)
++ https://github.com/alexandre-spieser/AspNetCore.Identity.MongoDbCore
+
 ## A solution for exchanging external (Facebook,Google,Twitter etc) tokens with IdentityServer access token.
 + https://github.com/waqaskhan540/IdentityServerExternalAuth
 
