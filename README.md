@@ -34,3 +34,6 @@
 
 # Identity Server 3 and MongoDB
 + https://github.com/jageall/IdentityServer.v3.MongoDb
+
+# ASP.NET Core Authentication using JWT
+https://github.com/ntxinh/dotnetcore-practices/tree/master/AspNetCoreJWTAuth
