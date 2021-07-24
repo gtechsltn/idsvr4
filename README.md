@@ -1,10 +1,12 @@
 # IdSrv4 Samples
 + https://github.com/stulzq/IdentityServer4.Samples
 + https://www.cnblogs.com/sheng-jie/p/9430920.html (Case By Case)
++ https://github.com/NetDevPack/Security.Jwt (Cách để tạo token an toàn hơn)
 
-## OpenId dùng để Xác Thực (Authentication)
-## OAuth2.0 được sử dụng để Ủy Quyền
-## OpenId Connect = OIDC = Authentication + Authorization + OAuth2.0
++ OpenId dùng để Xác Thực (Authentication)
++ OAuth2.0 được sử dụng để Ủy Quyền
++ OpenID Connect = OIDC = Authentication + Authorization + OAuth2.0
++ IdentityServer4: IdentityServer4 is an OpenID Connect and OAuth 2.0 framework for ASP.NET Core.
 
 ![image](https://user-images.githubusercontent.com/87538251/126874256-cabefda1-55d0-47fe-a910-5b68e70c4e81.png)
 
