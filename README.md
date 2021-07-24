@@ -2,7 +2,7 @@
 + OpenID Connect Code / Implicit Flow with Angular and ASP.NET Core 5 IdentityServer4
 + https://github.com/gtechsltn/AspNet5IdentityServerAngularImplicitFlow
 + https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow
-
++ https://awesomeopensource.com/projects/identityserver4 (Search)
 
 # Topics
 + OAuth2
