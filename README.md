@@ -4,6 +4,27 @@
 + https://github.com/NetDevPack/Security.Jwt (Cách để tạo token an toàn hơn)
 + https://code-maze.com/identityserver-4-series/ (Series IdSrv4)
 
++ https://github.com/stulzq/IdentityServer4.Samples
++ https://github.com/skoruba/IdentityServer4.Admin
++ https://github.com/brunohbrito/JPProject.IdentityServer4.SSO
++ https://github.com/luoyunchong/lin-cms-dotnetcore
++ https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate
++ https://github.com/Aguafrommars/TheIdServer
++ https://github.com/CoreDX9/IdentityServerDemo
++ https://github.com/asadsahi/AspNetCoreSpa
+
++ https://github.com/cloudscribe/cloudscribe (nền tảng)
++ https://blexin.com/en/blog-en/angular-microservices-and-authentication-with-identityserver-mongodb-and-docker/
++ https://github.com/apomic80/angular-microservices-identityserver (Hay Hay Hay)
++ https://blexin.com/en/blog-en/angular-microservices-and-authentication-with-identityserver-mongodb-and-docker/
+
++ https://github.com/souzartn/IdentityServer4.Samples.Mongo
+
++ https://elanderson.net/category/identityserver/
++ https://github.com/brunohbrito/IdentityServer4AngularOIDC
++ https://elanderson.net/2019/03/asp-net-core-3-react-template-with-auth/
+
+
 + OpenId dùng để Xác Thực (Authentication)
 + OAuth2.0 được sử dụng để Ủy Quyền
 + OpenID Connect = OIDC = Authentication + Authorization + OAuth2.0
