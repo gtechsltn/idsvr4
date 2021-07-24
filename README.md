@@ -2,6 +2,12 @@
 + https://github.com/stulzq/IdentityServer4.Samples
 + https://www.cnblogs.com/sheng-jie/p/9430920.html (Case By Case)
 
+## OpenId dùng để Xác Thực (Authentication)
+## OAuth2.0 được sử dụng để Ủy Quyền
+## OpenId Connect = OIDC = Authentication + Authorization + OAuth2.0
+
+![image](https://user-images.githubusercontent.com/87538251/126874256-cabefda1-55d0-47fe-a910-5b68e70c4e81.png)
+
 # Source Code
 + OpenID Connect Code / Implicit Flow with Angular and ASP.NET Core 5 IdentityServer4
 + https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow
