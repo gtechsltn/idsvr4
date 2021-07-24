@@ -2,6 +2,7 @@
 + https://github.com/stulzq/IdentityServer4.Samples
 + https://www.cnblogs.com/sheng-jie/p/9430920.html (Case By Case)
 + https://github.com/NetDevPack/Security.Jwt (Cách để tạo token an toàn hơn)
++ https://code-maze.com/identityserver-4-series/ (Series IdSrv4)
 
 + OpenId dùng để Xác Thực (Authentication)
 + OAuth2.0 được sử dụng để Ủy Quyền
