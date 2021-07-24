@@ -1,9 +1,13 @@
+# IdSrv4 Samples
++ https://github.com/stulzq/IdentityServer4.Samples
+
 # Source Code
 + OpenID Connect Code / Implicit Flow with Angular and ASP.NET Core 5 IdentityServer4
 + https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow
  🔒 ASP.NET Core 3.1 Open Source SSO. Built within IdentityServer4 🔑 
-+ https://github.com/brunohbrito/JPProject.IdentityServer4.SSO/
++ https://github.com/brunohbrito/JPProject.IdentityServer4.SSO/ (HAY HAY HAY)
 + https://awesomeopensource.com/projects/identityserver4 (Search)
++ https://github.com/zhouyongtao/SecuringForWebAPI (HAY HAY HAY)
 
 # DDD + CQRS & ES
 + Full ASP.NET Core 5 application with DDD, CQRS and Event Sourcing concepts
