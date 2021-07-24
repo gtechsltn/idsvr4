@@ -5,6 +5,15 @@
 + https://github.com/brunohbrito/JPProject.IdentityServer4.SSO/
 + https://awesomeopensource.com/projects/identityserver4 (Search)
 
+# DDD + CQRS & ES
++ Full ASP.NET Core 5 application with DDD, CQRS and Event Sourcing concepts
++ https://github.com/EduardoPires/EquinoxProject/
++ https://github.com/brunohbrito/JPProject.IdentityServer4.SSO/ (Full)
++ https://github.com/brunohbrito/JPProject.IdentityServer4.SSO/releases
++ https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI/ (Light)
++ https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI/releases
++ https://jp-project.readthedocs.io/en/latest/index.html
+
 # Topics
 + OAuth2
 + OAuth
