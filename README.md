@@ -1,7 +1,8 @@
 # Source Code
 + OpenID Connect Code / Implicit Flow with Angular and ASP.NET Core 5 IdentityServer4
-+ https://github.com/gtechsltn/AspNet5IdentityServerAngularImplicitFlow
 + https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow
+ 🔒 ASP.NET Core 3.1 Open Source SSO. Built within IdentityServer4 🔑 
++ https://github.com/brunohbrito/JPProject.IdentityServer4.SSO/
 + https://awesomeopensource.com/projects/identityserver4 (Search)
 
 # Topics
