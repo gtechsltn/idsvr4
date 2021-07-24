@@ -1,5 +1,6 @@
 # IdSrv4 Samples
 + https://github.com/stulzq/IdentityServer4.Samples
++ https://www.cnblogs.com/sheng-jie/p/9430920.html (Case By Case)
 
 # Source Code
 + OpenID Connect Code / Implicit Flow with Angular and ASP.NET Core 5 IdentityServer4
